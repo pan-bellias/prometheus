@@ -1,0 +1,1 @@
+followed [this](https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/) link
